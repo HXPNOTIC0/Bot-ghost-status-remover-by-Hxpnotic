@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["WORKING FOR HXPNOTIC","TRABAJANDO PARA HXPNOTIC"];
+const statusMessages = ["HXPNOTIC","ON TOP"];
 
 
 let currentIndex = 0;
